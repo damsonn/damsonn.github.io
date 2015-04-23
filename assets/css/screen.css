@@ -617,6 +617,22 @@ margin on the iframe, cause it breaks stuff. */
     margin-right: 6px;
 }
 
+.social-button {
+    color : rgba(0,0,0,0.5) !important;
+    display: inline-block;
+    float: right;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.social-button:hover {
+    color : #000000 !important;
+}
+
+.social-button:before {
+    margin-right: 6px;
+}
+
 /* Special styles when overlaid on an image*/
 .main-nav.overlay {
     position: absolute;
@@ -1348,6 +1364,10 @@ body:not(.post-template) .post-title {
         min-height: 240px;
         height: 60%;
         padding: 15% 0;
+    }
+
+    .social-button {
+        margin-top: 15px;
     }
 
     .scroll-down,
