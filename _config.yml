@@ -1,15 +1,20 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: /dam/dev
+description: a blog about my developer adventures
+meta_description: "a blog about my developer adventures"
 
 markdown: redcarpet
 highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'http://damsonn.github.io'
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'http://damsonn.github.io'
+author:         'Damien Dormal'
+
+google_analytics: 'UA-40663494-2'
+# Social
+disqus_short_name: damdev
+linkedin_user: damiendormal
+github_user: damsonn
