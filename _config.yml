@@ -7,10 +7,10 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://damsonn.github.io'
+domain_name: 'http://damdev.me'
 
 # Details for the RSS feed generator
-url:            'http://damsonn.github.io'
+url:            'http://damdev.me'
 author:         'Damien Dormal'
 
 google_analytics: 'UA-40663494-2'
