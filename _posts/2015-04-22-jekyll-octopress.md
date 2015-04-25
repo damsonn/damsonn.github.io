@@ -12,7 +12,7 @@ It is a very simple static site generator, which process markdown files.
 
 Then I started looking at [Octopress](http://octopress.org/), mainly because of the collection of themes.
 It provides some features on top of *Jekyll*, such as a plugin mechanism, deployment options...
-Overall I don't really need anything from it and that I actually preferred the simplicity of Jekyll. Without going in the details, I felt it is a bit too complicated for what it does.
+Overall I don't really need anything from it and I actually preferred the simplicity of Jekyll. Without going in the details, I felt it is a bit too complicated for what it does.
 The main dev of Octopress is currently working on [Octopress 3](http://octopress.org/2015/01/15/octopress-3.0-is-coming/).
 It should create a much more modular foundation and hopefully become cleaner ecosystem.
 
