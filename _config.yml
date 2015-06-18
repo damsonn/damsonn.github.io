@@ -2,6 +2,9 @@ name: /dam/dev
 description: a blog about my developer adventures
 meta_description: "a blog about my developer adventures"
 
+gems:
+  - jekyll-sitemap
+
 markdown: redcarpet
 highlighter: pygments
 logo: false
