@@ -5,6 +5,8 @@ date:   2015-05-14 10:15:20
 categories: javascript bootstrap
 ---
 
+*Update 4 Oct 2015*, this ugly flash workaround is now obsolete thanks to [clipboard.js](http://zenorocha.github.io/clipboard.js/).
+
 I recently worked on a web app that present code snippets to the user, so I though it would be nice to have a "copy to clipboard" feature. Saving a few clicks is always welcome!
 
 So first thing to note is the lack of a standard *javascript* function for that.
