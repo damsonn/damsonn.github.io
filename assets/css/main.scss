@@ -8,6 +8,25 @@
 	display:inline;
 }
 
+.img-wrapper {
+	overflow: hidden;
+	padding-bottom: 30px;
+}
+
+.post-content .full-img {
+	width: 48%;
+	padding: 3px;
+	margin: 0px;
+	float: left;
+}
+
+/* small screen */
+@media only screen and (max-device-width: 700px) {
+	.post-content .full-img {
+		width: 98%;
+ 	}
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax"

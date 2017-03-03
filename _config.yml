@@ -4,9 +4,12 @@ meta_description: "a blog about my developer adventures"
 
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
+  - rouge
+  - redcarpet
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
