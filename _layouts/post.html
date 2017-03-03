@@ -19,10 +19,10 @@ post_class: post-template
 
         <header class="post-header">
             <h1 class="post-title">{{ page.title }}</h1>
-            <section class="post-meta">                
+            <section class="post-meta">
                 <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
-                {% if page.categories.size > 0 %} 
-                    {{ page.categories | array_to_sentence_string | prepend: 'on ' }} 
+                {% if page.categories.size > 0 %}
+                    {{ page.categories | array_to_sentence_string | prepend: 'on ' }}
                 {% endif %}
             </section>
         </header>
@@ -33,14 +33,14 @@ post_class: post-template
                     <img src="{{site.logo}}" alt="{{ site.name }}" />
                 {% else %}
                     <span class="blog-title">{{ site.name }}</span>
-                {%endif%} 
+                {%endif%}
             </a>
         </header> -->
-        
+
         <!-- <span class="post-meta">
             <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
-            {% if page.categories.size > 0 %} 
-                {{ page.categories | array_to_sentence_string | prepend: 'on ' }} 
+            {% if page.categories.size > 0 %}
+                {{ page.categories | array_to_sentence_string | prepend: 'on ' }}
             {% endif %}
         </span> -->
 
@@ -56,7 +56,7 @@ post_class: post-template
             <ul>
                 {% for post in site.posts %}
                     <li><span>{{ post.date | date_to_string }}</span>  <a href="{{ post.url }}">{{ post.title }}</a></li>
-                {% endfor %}    
+                {% endfor %}
             </ul>
         </section>
         {% endif %}
@@ -72,19 +72,19 @@ post_class: post-template
                     <!-- Author Name -->
                     <h4> {{ site.author }} </h4>
                     <!-- Author Bio -->
-                    <p> 
-                        I am a software developer based in Perth, Western Australia.
+                    <p>
+                        I am a software developer based in Margaret river, Western Australia.
                     </p>
-                </section>                
+                </section>
             {% endif %}
 
             <!-- Share links section -->
             {% include share.html %}
-            
+
             <!-- Disqus comments -->
-            
+
             {% include disqus.html %}
-            
+
         </footer>
 
     </article>
