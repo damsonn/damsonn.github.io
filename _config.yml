@@ -6,9 +6,7 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
   - rouge
-  - redcarpet
 
-markdown: redcarpet
 highlighter: rouge
 logo: false
 paginate: 15
