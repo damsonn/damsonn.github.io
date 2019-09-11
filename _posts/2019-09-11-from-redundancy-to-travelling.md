@@ -17,7 +17,7 @@ On top of that, I wanted to leave the company for over a year. Locomote was a st
 
 So why should I feel bad about being made redundant. It is a blessing in disguise!
 
-Also, my wife reminded me how we’ve wanted to travel in South America for years. The timing is perfect, as our daughter is starting school next year. I wasn’t too hard to convince. This is it, we decide to travel around the world for six months.
+Also, my wife reminded me how we’ve wanted to travel in South America for years. The timing is perfect, as our daughter is starting school next year. It wasn’t too hard to convince me. This is it, we decide to travel around the world for six months.
 
 <div class="img-wrapper">
   <img alt="Familly travels 1" src="/assets/images/familly-travels-1.jpeg">
