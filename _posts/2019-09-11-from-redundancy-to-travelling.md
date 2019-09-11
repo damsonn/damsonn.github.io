@@ -20,7 +20,7 @@ So why should I feel bad about being made redundant. It is a blessing in disguis
 Also, my wife reminded me how we’ve wanted to travel in South America for years. The timing is perfect, as our daughter is starting school next year. It wasn’t too hard to convince me. This is it, we decide to travel around the world for six months.
 
 <div class="img-wrapper">
-  <img alt="Familly travels 1" src="/assets/images/familly-travels-1.jpeg">
+  <img alt="Familly travels 3" src="/assets/images/familly-travels-3.jpeg">
   <img alt="Familly travels 2" src="/assets/images/familly-travels-2.jpeg">
 </div>
 
@@ -34,7 +34,7 @@ So what did I learn through the whole process ?
 - Companies and recruiters don’t look at a gap on your resume and think negatively about it. Travelling is a rich experience, and you learn a lot along the way.
 
 <div class="img-wrapper">
-  <img alt="Familly travels 3" src="/assets/images/familly-travels-3.jpeg">
+  <img alt="Familly travels 1" src="/assets/images/familly-travels-1.jpeg">
   <img alt="Familly travels 4" src="/assets/images/familly-travels-4.jpeg">
   <img alt="Familly travels 5" src="/assets/images/familly-travels-5.jpeg">
   <img alt="Familly travels 6" src="/assets/images/familly-travels-6.jpeg">
