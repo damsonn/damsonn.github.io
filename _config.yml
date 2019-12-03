@@ -10,11 +10,11 @@ gems:
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: /
-domain_name: 'http://damdev.me'
+baseurl: '/'
+domain_name: 'https://damdev.me'
 
 # Details for the RSS feed generator
-url:            'http://damdev.me'
+url:            'https://damdev.me'
 author:         'Damien Dormal'
 
 google_analytics: 'UA-40663494-2'
