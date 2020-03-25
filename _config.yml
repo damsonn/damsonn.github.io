@@ -2,7 +2,7 @@ name: /dam/dev
 description: a blog about my developer adventures
 meta_description: "a blog about my developer adventures"
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - rouge
