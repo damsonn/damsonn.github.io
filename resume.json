@@ -5,7 +5,7 @@
     "label": "Staff Software Engineer",
     "email": "damien.dormal@pm.me",
     "phone": "+61 459 352 671",
-    "summary": "Staff Software Engineer with 15+ years of experience building and scaling distributed systems. Product-minded technical leader who bridges engineering, product, and business stakeholders. Proven track record as both IC and Engineering Manager. Proficient with AI-augmented engineering workflows. Deep expertise in card issuing platforms, IDV/KYC, and bank/network integrations powering millions of customers for Cash App and Square.",
+    "summary": "Staff Software Engineer with 15+ years of experience building and scaling distributed systems. Product-minded technical leader who bridges engineering, product, and business stakeholders. Proven track record as both IC and Engineering Manager. Proficient with AI-augmented engineering workflows. Deep expertise in card issuing platforms, IDV/KYC, and bank/network integrations.",
     "location": {
       "city": "Margaret River",
       "region": "WA",
@@ -33,12 +33,12 @@
       "endDate": "2026-03",
       "summary": "Financial Platform — Issuing | IC → EM → IC (5 years)",
       "highlights": [
-        "Led the accounts stream for Block's Visa DPS integration — designed issuer-agnostic APIs to avoid tight coupling with Marqeta",
-        "Coordinated 4+ teams to deliver Bancorp compliance reporting (Card, KYC, transactions and balances), securing bank approval and unblocking the DPS launch",
+        "Led the accounts stream for Block's Visa DPS integration — designed issuer-agnostic APIs to remove tight coupling with Marqeta",
+        "Coordinated effort accross 4+ teams to deliver Bancorp compliance reporting (Card, KYC, transactions and balances), securing bank approval and unblocking the DPS launch",
         "Architected the program construct to manage Block's growing card issuing portfolio across multiple issuer processors and sponsoring banks",
-        "Rebuilt denylisting orchestration on Temporal, replacing 3 legacy APIs with a reliable workflow supporting customer appeals and detailed reporting to partner banks",
-        "Led a task force to resolve data consistency issues in the Marqeta integration, fixing incorrect account states for ~50K customers and stabilizing the Sutton BIN sponsor relationship",
-        "Founded and grew the New Markets team (3–5 engineers) owning account management and card program infrastructure; authored the strategic roadmap and business case for expansion",
+        "Rebuilt denylisting orchestration on Temporal, provides a reliable workflow supporting customer appeals and detailed reporting to partner banks",
+        "Led a task force to resolve data consistency issues in the Marqeta integration, stabilizing the Sutton BIN sponsor relationship",
+        "Founded and grew the New Markets team owning account management and card program infrastructure; authored the strategic roadmap and business case for expansion",
         "Enabled the launch of Cash Teen (sponsored accounts) for Cash App Card, driving KYC pipeline changes and contributing to 5M+ new monthly active users"
       ]
     },
