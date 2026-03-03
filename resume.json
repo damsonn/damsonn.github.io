@@ -33,9 +33,9 @@
       "endDate": "2026-03",
       "summary": "Financial Platform — Issuing",
       "highlights": [
-        "Led the accounts stream for Block's VISA DPS integration, designing issuer-agnostic APIs and executing a 34M-record data migration",
-        "Architected a scalable program construct to manage Block's growing card issuing portfolio across multiple sponsor banks",
-        "Coordinated 4+ teams on Bancorp reporting compliance, securing bank approval and unblocking the DPS launch timeline",
+        "Led the accounts stream for Block's VISA DPS integration, designed and implemented issuer-agnostic APIs",
+        "Architected a scalable program construct to manage Block's growing card issuing portfolio across multiple issuer processor and sponsoring banks",
+        "Coordinated 4+ teams on Bancorp reporting compliance, securing bank approval and un blocking the DPS launch timeline",
         "Championed AI-augmented engineering workflows, running weekly AI mob sessions and driving large-scale codebase refactors with agentic tooling"
       ]
     },
@@ -107,11 +107,7 @@
       "position": "Lead Software Engineer",
       "location": "Perth, WA",
       "startDate": "2012-03",
-      "endDate": "2014-06",
-      "highlights": [
-        "Developed the system back-end (REST API) and front-end (Backbone.js, Bootstrap), establishing BDD testing with Cucumber and Selenium",
-        "Created a proof of concept for a new client-side stack (Backbone.js, Handlebars.js, Require.js) that became the company standard"
-      ]
+      "endDate": "2014-06"
     },
     {
       "name": "iiNet",
@@ -148,41 +144,20 @@
   ],
   "skills": [
     {
-      "name": "Languages",
-      "keywords": ["Kotlin", "Java", "Python", "JavaScript", "Ruby", "Scala"]
+      "name": "Languages & Frameworks",
+      "keywords": ["Kotlin", "JavaScript", "Ruby", "Java", "Python", "Temporal", "gRPC"]
     },
     {
-      "name": "Backend & Infrastructure",
-      "keywords": ["Kafka", "gRPC", "REST APIs", "GraphQL", "Temporal", "Node.js", "Rails"]
+      "name": "Data & Storage",
+      "keywords": ["MySQL", "PostgreSQL", "Kafka", "Redis", "MongoDB"]
     },
     {
-      "name": "Databases",
-      "keywords": ["MySQL", "PostgreSQL", "Redis", "MongoDB"]
-    },
-    {
-      "name": "Cloud & DevOps",
-      "keywords": ["AWS", "Kubernetes", "Docker", "Terraform", "CI/CD"]
+      "name": "Infrastructure & Cloud",
+      "keywords": ["AWS (EKS, RDS, SQS, S3)", "Kubernetes / Docker", "Terraform", "Datadog", "PagerDuty", "BuildKite"]
     },
     {
       "name": "Domain Expertise",
-      "keywords": ["Distributed Systems", "Card Issuance", "IDV/KYC", "Bank & Network Integration"]
-    }
-  ],
-  "projects": [
-    {
-      "name": "VISA DPS Integration",
-      "description": "Led accounts stream for Block's migration to VISA DPS as a direct issuer processor, designing issuer-agnostic APIs and coordinating Bancorp compliance across 4+ teams",
-      "keywords": ["Kotlin", "Kafka", "MySQL", "AWS", "Distributed Systems"]
-    },
-    {
-      "name": "Card Programs Store",
-      "description": "Designed and built a centralized service to manage Block's growing card issuing portfolio with APIs, datastore, and admin panel, refactoring shard allocation logic out of multiple legacy systems",
-      "keywords": ["Kotlin", "MySQL", "Kubernetes", "API Design"]
-    },
-    {
-      "name": "3DS / Access Control Server",
-      "description": "Led the end-to-end 3DS/ACS initiative for Cash App and Square Card — from PCI DSS/3DS certification through network infrastructure to production rollout",
-      "keywords": ["Security", "PCI DSS", "HSM", "Card Networks"]
+      "keywords": ["Distributed Systems", "API design", "Card Issuance", "IDV/KYC", "Compliance engineering", "Issuer Processor Integrations"]
     }
   ],
   "meta": {
