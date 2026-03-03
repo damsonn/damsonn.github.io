@@ -1,0 +1,194 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Damien Dormal",
+    "label": "Staff Software Engineer",
+    "email": "damien.dormal@pm.me",
+    "phone": "+61 459 352 671",
+    "summary": "Pragmatic Staff Software Engineer with 15+ years of experience building and scaling distributed systems in fintech. Deep expertise in card issuing platforms, IDV/KYC, and bank/network integrations powering millions of customers at Cash App and Square. Product-minded technical leader who bridges engineering, compliance, and business stakeholders. Proven track record as both IC and Engineering Manager. Proficient with AI-augmented engineering workflows.",
+    "location": {
+      "city": "Margaret River",
+      "region": "WA",
+      "countryCode": "AU"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "damsonn",
+        "url": "https://github.com/damsonn"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "damiendormal",
+        "url": "https://linkedin.com/in/damiendormal"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Cash App / Block",
+      "position": "Staff Software Engineer",
+      "location": "Remote",
+      "startDate": "2024-07",
+      "endDate": "2026-03",
+      "summary": "Financial Platform — Issuing",
+      "highlights": [
+        "Led the accounts stream for Block's VISA DPS integration, designing issuer-agnostic APIs and executing a 34M-record data migration",
+        "Architected a scalable program construct to manage Block's growing card issuing portfolio across multiple sponsor banks",
+        "Coordinated 4+ teams on Bancorp reporting compliance, securing bank approval and unblocking the DPS launch timeline",
+        "Championed AI-augmented engineering workflows, running weekly AI mob sessions and driving large-scale codebase refactors with agentic tooling"
+      ]
+    },
+    {
+      "name": "Cash App / Block",
+      "position": "Engineering Manager",
+      "location": "Remote",
+      "startDate": "2022-06",
+      "endDate": "2024-07",
+      "summary": "Financial Platform — Issuing",
+      "highlights": [
+        "Founded and grew the New Markets team into a T-shaped org owning account management and card program infrastructure (3-5 engineers)",
+        "Led the 3DS/ACS initiative end-to-end — from PCI DSS certification through network integration to production rollout for Cash App and Square Card",
+        "Designed and built the Card Programs Store, a centralized service to manage Block's growing portfolio of card programs across issuers",
+        "Drove KYC modernization and supported new card program launches across multiple geographies (US, Canada, UK)",
+        "Authored the team's strategic roadmap and made the business case for team expansion"
+      ]
+    },
+    {
+      "name": "Cash App / Block",
+      "position": "Staff Software Engineer",
+      "location": "Remote",
+      "startDate": "2021-05",
+      "endDate": "2022-06",
+      "summary": "Financial Platform — Issuing",
+      "highlights": [
+        "Enabled the launch of Cash Teen / Sponsored accounts across issuing programs, driving key changes in the KYC pipeline",
+        "Designed a simplified KYC storage architecture, replacing a complex multi-service proxy flow and enabling partner bank reporting",
+        "Extended the accounts platform to support multi-issuer customer accounts for both Cash App and Square"
+      ]
+    },
+    {
+      "name": "Envato",
+      "position": "Lead Developer (Acting)",
+      "location": "Remote",
+      "startDate": "2019-12",
+      "endDate": "2021-05",
+      "highlights": [
+        "Designed and developed a new API to distribute content across the organisation, enabling downstream teams to consume assets programmatically",
+        "Led decomposition of a monolith application into services, extracting key functionalities into independently deployable microservices",
+        "Led infrastructure and DevOps improvements within the group, organising and facilitating monthly infrastructure catchups"
+      ]
+    },
+    {
+      "name": "Locomote",
+      "position": "Lead Software Engineer",
+      "location": "Remote",
+      "startDate": "2016-02",
+      "endDate": "2019-04",
+      "highlights": [
+        "Developed the booking tool (Node.js) and travel management platform (Rails) serving enterprise customers",
+        "Transformed the booking tool to support multiple booking APIs, enabling the platform to aggregate travel suppliers",
+        "Supported engineers and hired new staff, improving developer engagement through cross-team meetings"
+      ]
+    },
+    {
+      "name": "Moko Social Media",
+      "position": "Software Engineer",
+      "location": "Perth, WA",
+      "startDate": "2015-02",
+      "endDate": "2016-02",
+      "highlights": [
+        "Built the API for Speakiesy, an intramural social app launched to 100+ college campuses (Rails)",
+        "Introduced new DevOps strategy using Docker and AWS ECS, modernizing the deployment pipeline"
+      ]
+    },
+    {
+      "name": "Cinglevue",
+      "position": "Lead Software Engineer",
+      "location": "Perth, WA",
+      "startDate": "2012-03",
+      "endDate": "2014-06",
+      "highlights": [
+        "Developed the system back-end (REST API) and front-end (Backbone.js, Bootstrap), establishing BDD testing with Cucumber and Selenium",
+        "Created a proof of concept for a new client-side stack (Backbone.js, Handlebars.js, Require.js) that became the company standard"
+      ]
+    },
+    {
+      "name": "iiNet",
+      "position": "Software Engineer",
+      "location": "Perth, WA",
+      "startDate": "2011-04",
+      "endDate": "2012-03"
+    },
+    {
+      "name": "Steria",
+      "position": "Software Engineer",
+      "location": "Brussels, Belgium",
+      "startDate": "2007-09",
+      "endDate": "2010-10"
+    }
+  ],
+  "education": [
+    {
+      "institution": "HEB ESI",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2004-09",
+      "endDate": "2007-06",
+      "location": "Brussels, Belgium",
+      "score": "> 80%"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Neural Networks and Deep Learning",
+      "issuer": "Coursera",
+      "date": "2019-03"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": ["Kotlin", "Java", "Python", "JavaScript", "Ruby", "Scala"]
+    },
+    {
+      "name": "Backend & Infrastructure",
+      "keywords": ["Kafka", "gRPC", "REST APIs", "GraphQL", "Temporal", "Node.js", "Rails"]
+    },
+    {
+      "name": "Databases",
+      "keywords": ["MySQL", "PostgreSQL", "Redis", "MongoDB"]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "keywords": ["AWS", "Kubernetes", "Docker", "Terraform", "CI/CD"]
+    },
+    {
+      "name": "Domain Expertise",
+      "keywords": ["Distributed Systems", "Card Issuance", "IDV/KYC", "Bank & Network Integration"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "VISA DPS Integration",
+      "description": "Led accounts stream for Block's migration to VISA DPS as a direct issuer processor, designing issuer-agnostic APIs and coordinating Bancorp compliance across 4+ teams",
+      "keywords": ["Kotlin", "Kafka", "MySQL", "AWS", "Distributed Systems"]
+    },
+    {
+      "name": "Card Programs Store",
+      "description": "Designed and built a centralized service to manage Block's growing card issuing portfolio with APIs, datastore, and admin panel, refactoring shard allocation logic out of multiple legacy systems",
+      "keywords": ["Kotlin", "MySQL", "Kubernetes", "API Design"]
+    },
+    {
+      "name": "3DS / Access Control Server",
+      "description": "Led the end-to-end 3DS/ACS initiative for Cash App and Square Card — from PCI DSS/3DS certification through network infrastructure to production rollout",
+      "keywords": ["Security", "PCI DSS", "HSM", "Card Networks"]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2026-03-02",
+    "theme": "jsonresume-theme-dev-ats"
+  }
+}
