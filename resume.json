@@ -5,7 +5,7 @@
     "label": "Staff Software Engineer",
     "email": "damien.dormal@pm.me",
     "phone": "+61 459 352 671",
-    "summary": "Pragmatic Staff Software Engineer with 15+ years of experience building and scaling distributed systems in fintech. Deep expertise in card issuing platforms, IDV/KYC, and bank/network integrations powering millions of customers at Cash App and Square. Product-minded technical leader who bridges engineering, compliance, and business stakeholders. Proven track record as both IC and Engineering Manager. Proficient with AI-augmented engineering workflows.",
+    "summary": "Staff Software Engineer with 15+ years of experience building and scaling distributed systems. Product-minded technical leader who bridges engineering, product, and business stakeholders. Proven track record as both IC and Engineering Manager. Proficient with AI-augmented engineering workflows. Deep expertise in card issuing platforms, IDV/KYC, and bank/network integrations powering millions of customers for Cash App and Square.",
     "location": {
       "city": "Margaret River",
       "region": "WA",
@@ -27,44 +27,19 @@
   "work": [
     {
       "name": "Cash App / Block",
-      "position": "Staff Software Engineer",
-      "location": "Remote",
-      "startDate": "2024-07",
-      "endDate": "2026-03",
-      "summary": "Financial Platform — Issuing",
-      "highlights": [
-        "Led the accounts stream for Block's VISA DPS integration, designed and implemented issuer-agnostic APIs",
-        "Architected a scalable program construct to manage Block's growing card issuing portfolio across multiple issuer processor and sponsoring banks",
-        "Coordinated 4+ teams on Bancorp reporting compliance, securing bank approval and un blocking the DPS launch timeline",
-        "Championed AI-augmented engineering workflows, running weekly AI mob sessions and driving large-scale codebase refactors with agentic tooling"
-      ]
-    },
-    {
-      "name": "Cash App / Block",
-      "position": "Engineering Manager",
-      "location": "Remote",
-      "startDate": "2022-06",
-      "endDate": "2024-07",
-      "summary": "Financial Platform — Issuing",
-      "highlights": [
-        "Founded and grew the New Markets team into a T-shaped org owning account management and card program infrastructure (3-5 engineers)",
-        "Led the 3DS/ACS initiative end-to-end — from PCI DSS certification through network integration to production rollout for Cash App and Square Card",
-        "Designed and built the Card Programs Store, a centralized service to manage Block's growing portfolio of card programs across issuers",
-        "Drove KYC modernization and supported new card program launches across multiple geographies (US, Canada, UK)",
-        "Authored the team's strategic roadmap and made the business case for team expansion"
-      ]
-    },
-    {
-      "name": "Cash App / Block",
-      "position": "Staff Software Engineer",
+      "position": "Staff Software Engineer / Engineering Manager",
       "location": "Remote",
       "startDate": "2021-05",
-      "endDate": "2022-06",
-      "summary": "Financial Platform — Issuing",
+      "endDate": "2026-03",
+      "summary": "Financial Platform — Issuing | IC → EM → IC (5 years)",
       "highlights": [
-        "Enabled the launch of Cash Teen / Sponsored accounts across issuing programs, driving key changes in the KYC pipeline",
-        "Designed a simplified KYC storage architecture, replacing a complex multi-service proxy flow and enabling partner bank reporting",
-        "Extended the accounts platform to support multi-issuer customer accounts for both Cash App and Square"
+        "Led the accounts stream for Block's Visa DPS integration — designed issuer-agnostic APIs to avoid tight coupling with Marqeta",
+        "Coordinated 4+ teams to deliver Bancorp compliance reporting (Card, KYC, transactions and balances), securing bank approval and unblocking the DPS launch",
+        "Architected the program construct to manage Block's growing card issuing portfolio across multiple issuer processors and sponsoring banks",
+        "Rebuilt denylisting orchestration on Temporal, replacing 3 legacy APIs with a reliable workflow supporting customer appeals and detailed reporting to partner banks",
+        "Led a task force to resolve data consistency issues in the Marqeta integration, fixing incorrect account states for ~50K customers and stabilizing the Sutton BIN sponsor relationship",
+        "Founded and grew the New Markets team (3–5 engineers) owning account management and card program infrastructure; authored the strategic roadmap and business case for expansion",
+        "Enabled the launch of Cash Teen (sponsored accounts) for Cash App Card, driving KYC pipeline changes and contributing to 5M+ new monthly active users"
       ]
     },
     {
@@ -75,7 +50,7 @@
       "endDate": "2021-05",
       "highlights": [
         "Designed and developed a new API to distribute content across the organisation, enabling downstream teams to consume assets programmatically",
-        "Led decomposition of a monolith application into services, extracting key functionalities into independently deployable microservices",
+        "Led the decomposition of a monolith application into services, extracting key functionalities into independently deployable microservices",
         "Led infrastructure and DevOps improvements within the group, organising and facilitating monthly infrastructure catchups"
       ]
     },
