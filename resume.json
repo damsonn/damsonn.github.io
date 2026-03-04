@@ -38,7 +38,7 @@
         "Architected the program construct to manage Block's growing card issuing portfolio across multiple issuer processors and sponsoring banks",
         "Rebuilt denylisting orchestration on Temporal, provides a reliable workflow supporting customer appeals and detailed reporting to partner banks",
         "Led a task force to resolve data consistency issues in the Marqeta integration, stabilizing the Sutton BIN sponsor relationship",
-        "Founded and grew the New Markets team owning account management and card program infrastructure; authored the strategic roadmap and business case for expansion",
+        "Founded and grew the New Markets team owning account management and card program infrastructure; authored the strategic roadmap",
         "Enabled the launch of Cash Teen (sponsored accounts) for Cash App Card, driving KYC pipeline changes and contributing to 5M+ new monthly active users"
       ]
     },
@@ -108,13 +108,6 @@
       "endDate": "2007-06",
       "location": "Brussels, Belgium",
       "score": "> 80%"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Neural Networks and Deep Learning",
-      "issuer": "Coursera",
-      "date": "2019-03"
     }
   ],
   "skills": [
