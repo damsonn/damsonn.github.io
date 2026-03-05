@@ -27,19 +27,29 @@
   "work": [
     {
       "name": "Cash App / Block",
-      "position": "Staff Software Engineer / Engineering Manager",
+      "position": "Staff Software Engineer",
       "location": "Remote",
       "startDate": "2021-05",
       "endDate": "2026-03",
-      "summary": "Financial Platform — Issuing | IC → EM → IC (5 years)",
+      "summary": "Financial Platform — Issuing",
       "highlights": [
         "Led the accounts stream for Block's Visa DPS integration — designed issuer-agnostic APIs to remove tight coupling with Marqeta",
-        "Coordinated effort accross 4+ teams to deliver Bancorp compliance reporting (Card, KYC, transactions and balances), securing bank approval and unblocking the DPS launch",
+        "Engineered a multi-domain reporting pipeline for Card, KYC and transactions records for BIN sponsor regulatory reporting, securing bank approval and unblocking the DPS launch",
         "Architected the program construct to manage Block's growing card issuing portfolio across multiple issuer processors and sponsoring banks",
         "Rebuilt denylisting orchestration on Temporal, provides a reliable workflow supporting customer appeals and detailed reporting to partner banks",
+        "Built KYC pipeline changes to support Cash Teen (sponsored accounts) for Cash App Card, contributing to 5M+ new monthly active users"
+      ]
+    },
+    {
+      "name": "Cash App / Block",
+      "position": "Engineering Manager",
+      "location": "Remote",
+      "startDate": "2022-05",
+      "endDate": "2024-07",
+      "summary": "Financial Platform — Issuing",
+      "highlights": [
         "Led a task force to resolve data consistency issues in the Marqeta integration, stabilizing the Sutton BIN sponsor relationship",
-        "Founded and grew the New Markets team owning account management and card program infrastructure; authored the strategic roadmap",
-        "Enabled the launch of Cash Teen (sponsored accounts) for Cash App Card, driving KYC pipeline changes and contributing to 5M+ new monthly active users"
+        "Founded and grew the New Markets team owning account management and card program infrastructure; authored the strategic roadmap"
       ]
     },
     {
@@ -50,8 +60,8 @@
       "endDate": "2021-05",
       "highlights": [
         "Designed and developed a new API to distribute content across the organisation, enabling downstream teams to consume assets programmatically",
-        "Led the decomposition of a monolith application into services, extracting key functionalities into independently deployable microservices",
-        "Led infrastructure and DevOps improvements within the group, organising and facilitating monthly infrastructure catchups"
+        "Decomposed a monolith application into services, extracting key functionalities into independently deployable microservices",
+        "Implemented infrastructure and CI/CD improvements across the group, including containerization and deployment automation"
       ]
     },
     {
@@ -63,7 +73,7 @@
       "highlights": [
         "Developed the booking tool (Node.js) and travel management platform (Rails) serving enterprise customers",
         "Transformed the booking tool to support multiple booking APIs, enabling the platform to aggregate travel suppliers",
-        "Supported engineers and hired new staff, improving developer engagement through cross-team meetings"
+        "Mentored engineers and established cross-team technical forums to improve developer collaboration"
       ]
     },
     {
